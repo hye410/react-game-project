@@ -1,12 +1,12 @@
 # React Card Game
 
-<center>
+<p align="center">
   <img 
   src="./public/images/react-game-main.png"
   width="300px"
   height="auto"
   />
-</center>
+</p>
 
 ## About This Project
   React를 사용하여 만든 간단한 카드 게임입니다.
