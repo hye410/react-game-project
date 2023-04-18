@@ -14,13 +14,13 @@
 ## Stacks
 <img 
 src="./public/images/html5-icon.png"
-width = "30px" />
+width = "40px" />
 <img 
 src="./public/images/css3-icon.png"
-width = "30px" />
+width = "40px" />
 <img 
 src="./public/images/react-icon.png"
-width = "25px" />
+width = "40px" />
 
 ## Skill
 
